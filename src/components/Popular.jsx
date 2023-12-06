@@ -66,11 +66,11 @@ const Wrapper = styled.div`
 
 const Card = styled.div`
   min-height: 25rem;
-  border-radius: 2rem;
+  border-radius: 0rem;
   overflow: hidden;
 
   img{
-    border-radius: 2rem;
+    border-radius: 0rem;
 
   }
 `;
